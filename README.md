@@ -4,4 +4,4 @@ In efforts to better accommodate users, numerous researchers have endeavored to 
 
 ![Item Level Experiment Results](misc/item_level.png)
 
-[Amazon Fashion Dataset: ](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)
+Link to Datset: [Amazon Fashion Dataset](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)
